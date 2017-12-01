@@ -1,0 +1,1 @@
+The project discussion-board employs Controller-Service-Repository pattern.
